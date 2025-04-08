@@ -39,12 +39,14 @@ This project demonstrates how to host a static website using **Amazon S3** and s
 
 ### S3 Bucket Files
 ![S3 Files](screenshots/bucket-policy.png)
+![S3 Files](screenshots/bucket-policy2.png)
 
 ### Static Website Hosting Settings
 ![S3 Hosting](screenshots/S3-Hosting.png)
 
 ### CloudFront Distribution
 ![CloudFront](screenshots/cloudfront.png)
+![CloudFront](screenshots/cloudfront-origin-settings.png)
 
 ### Live Website
 ![Live Site](screenshots/live-site.png)
